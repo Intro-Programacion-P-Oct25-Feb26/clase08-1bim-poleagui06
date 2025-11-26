@@ -44,11 +44,7 @@ public class Ejemplo021 {
 
             }
 
-            if (salida.equals("s")||salida.equals("si")||salida.equals("yes")||
-                    salida.equals("y")) { // f
-                bandera = false;
-            }
-            
+           
 
         } while (bandera); // (bandera==true)
 
